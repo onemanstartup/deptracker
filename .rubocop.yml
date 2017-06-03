@@ -1,0 +1,10 @@
+AllCops:
+  TargetRubyVersion: 2.4
+  Exclude:
+    - 'node_modules/**/*'
+    - '.gem/**/*'
+    - 'db/**/*'
+    - 'config/**/*'
+    - 'lib/**/*'
+    - 'webpack/**/*'
+    - 'public/**/*'
