@@ -86,9 +86,6 @@ GEM
     bitcoin-ruby (0.0.10)
     bootsnap (1.0.0)
       msgpack (~> 1.0)
-    bootstrap (4.0.0.alpha6)
-      autoprefixer-rails (>= 6.0.3)
-      sass (>= 3.4.19)
     brakeman (3.6.2)
     browser (2.4.0)
     btcruby (1.6)
@@ -744,7 +741,6 @@ DEPENDENCIES
   bcrypt (~> 3.1.7)
   bitcoin-ruby (~> 0.0.10)
   bootsnap
-  bootstrap (~> 4.0.0.alpha6)
   brakeman
   browser
   btcruby

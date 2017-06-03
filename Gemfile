@@ -140,7 +140,6 @@ gem 'rails-i18n', '~> 5.0.0'
 # Frontend
 gem 'active_link_to' # This at least updates
 gem 'autoprefixer-rails' # done(automatic)
-gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'country_select' # For admin pages
 gem 'meta-tags' # todo
 gem 'slim-rails' # done(automatic)
