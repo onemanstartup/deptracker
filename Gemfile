@@ -200,8 +200,6 @@ group :test do
   gem 'json_schema'
   gem 'mutant-rspec', '~> 0.8.13'
 
-  gem 'rspec-sqlimit'
-
   gem 'capybara'
   gem 'chromedriver-helper'
   gem 'selenium-webdriver'
