@@ -133,7 +133,6 @@ gem 'activemodel-serializers-xml' # needs for lasted rails 5
 gem 'countries', '~> 2.0.0.pre.3'
 gem 'devise-i18n'
 gem 'geocoder', '~> 1.4.3'
-gem 'globalize', '~> 5.1.0.beta1'
 gem 'i18n-country-translations'
 gem 'i18n-js', '>= 3.0.0.rc12'
 gem 'i18n-timezones'
