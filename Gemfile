@@ -46,8 +46,6 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
 
-gem 'bootsnap' # Faster boot time, do not run in production just yet
-
 gem 'lograge' # Clean logs
 gem 'logstash-event'
 

@@ -84,8 +84,6 @@ GEM
     bcrypt (3.1.11)
     benchmark-ips (2.7.2)
     bitcoin-ruby (0.0.10)
-    bootsnap (1.0.0)
-      msgpack (~> 1.0)
     brakeman (3.6.2)
     browser (2.4.0)
     btcruby (1.6)
@@ -402,7 +400,6 @@ GEM
       equalizer (~> 0.0.9)
       ice_nine (~> 0.11.0)
       procto (~> 0.0.2)
-    msgpack (1.1.0)
     multi_json (1.12.1)
     multipart-post (2.0.0)
     mustermann (1.0.0)
@@ -740,7 +737,6 @@ DEPENDENCIES
   awesome_print
   bcrypt (~> 3.1.7)
   bitcoin-ruby (~> 0.0.10)
-  bootsnap
   brakeman
   browser
   btcruby
