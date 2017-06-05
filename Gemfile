@@ -95,7 +95,7 @@ gem 'responders' # rails dependant
 gem 'multi_json'
 gem 'roar-rails'
 # Sidekiq
-gem 'sidekiq', '5.0.0'
+gem 'sidekiq', '5.0.1'
 gem 'sinatra', require: nil
 # gem 'sidekiq'                                # ActiveJob backend
 # gem 'sidekiq-failures'                       # Tracking failures
