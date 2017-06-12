@@ -438,7 +438,7 @@ GEM
     parser (2.3.3.1)
       ast (~> 2.2)
     path_expander (1.0.2)
-    pg (0.20.0)
+    pg (0.21.0)
     pipetree (0.1.1)
     powerpack (0.1.1)
     procto (0.0.3)
