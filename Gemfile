@@ -65,7 +65,7 @@ gem 'simple_form', '~> 3.5.0'
 # gem 'activerecord-session_store'
 # gem 'redis-session-store'
 # gem 'administrate', github: 'greetpoint/administrate', branch: 'rails5'
-gem 'counter_culture', '~> 1.6.2'
+gem 'counter_culture', '~> 1.7.0'
 gem 'datagrid'
 # gem 'rein'
 
