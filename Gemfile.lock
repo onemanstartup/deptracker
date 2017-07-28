@@ -590,7 +590,7 @@ GEM
       activemodel (>= 4.1, < 5.2)
     shrine (2.6.1)
       down (>= 2.3.6)
-    sidekiq (5.0.0)
+    sidekiq (5.0.4)
       concurrent-ruby (~> 1.0)
       connection_pool (~> 2.2, >= 2.2.0)
       rack-protection (>= 1.5.0)
@@ -819,7 +819,7 @@ DEPENDENCIES
   shoulda-matchers (~> 3.1)
   show_for
   shrine
-  sidekiq (= 5.0.0)
+  sidekiq (= 5.0.4)
   sidekiq-cron
   sidekiq-limit_fetch
   sidekiq-status
